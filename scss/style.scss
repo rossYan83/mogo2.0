@@ -1,0 +1,11 @@
+%color{
+    color: aquamarine;
+    display: contents;
+    font-family: serif;
+    grid-auto-flow: row;
+}
+
+.header{
+    display: contents;
+    @extend %color
+}

@@ -1,0 +1,10 @@
+.header {
+  color: aquamarine;
+  display: contents;
+  font-family: serif;
+  grid-auto-flow: row;
+}
+
+.header {
+  display: contents;
+}/*# sourceMappingURL=style.css.map */
